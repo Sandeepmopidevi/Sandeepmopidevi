@@ -1,44 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sandeep Mopidevi</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Expert</h3>
+<h1 align="center">Hey there! I'm Sandeep Mopidevi</h1>
+<h3 align="center">A Passionate Full Stack Developer | Cybersecurity Enthusiast | Tech YouTuber</h3>
  
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sandeepmopidevi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepmopidevi" />
+https://github.com/sandeepmopidevi?tab=followers">
+https://www.youtube.com/TechWithSandeep?sub_confirmation=1">
+https://github-readme-stats.vercel.app/api?username=sandeepmopidevi&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
+https://github-profile-trophy.vercel.app/?username=sandeepmopidevi&theme=algolia&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest" />
 </p>
  
-- 🎓 **Education**: Gudlavalleru Engineering College  
-- 📍 **Location**: Vijayawada, India  
-- 🌐 **Portfolio**: [sandeepmopidevi.me](https://sandeepmopidevi.me)  
-- 🔗 **Linktree**: [linktr.ee/Sandeepmopidev1](https://linktr.ee/Sandeepmopidev1)  
-- 🐦 **Twitter**: [@sandeepmopidev1](https://twitter.com/sandeepmopidev1)  
-- 📘 **Facebook**: [sandeep.mopidevi](https://www.facebook.com/sandeep.mopidevi)  
-- 📺 **YouTube**: [TechWithSandeep](https://www.youtube.com/TechWithSandeep?sub_confirmation=1)
+---
+ 
+### 📺 Latest from Tech With Sandeep
+ 
+- [30 Days Cybersecurity Course – From Scratch to Advanced](https://www.youtube.com/playlist?list=XYZ)
+- [How to Build an AI Assistant using Python](https://www.youtube.com/TechWithSandeep)
+- [Ethical Hacking Basics – Telugu](https://www.youtube.com/TechWithSandeep)
  
 ---
  
-### 🛠️ Tech Stack
- 
-- **Languages**: C#, JavaScript, Python
-- **Frameworks**: ASP.NET MVC, React, Node.js
-- **Databases**: SQL Server, MongoDB
-- **Tools**: Git, Docker, Visual Studio, VS Code
+### ✍️ Blog Articles
+*(Coming soon on my portfolio...)*
  
 ---
  
-### 📈 GitHub Stats
- 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepmopidevi&show_icons=true&theme=radical)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmopidevi&layout=compact&theme=radical)
- 
----
- 
-### 🏆 Achievements
- 
-- 🏅 GitHub Developer Program Member
-- 💼 Pro user
+### ⚡ Fun Facts
+- I love breaking and building things — Cybersecurity + Dev = Perfect Combo  
+- My most productive hours are past midnight  
+- I explain tech in **Telugu** on YouTube!
  
 ---
  
-### 📫 Contact Me
- 
-Feel free to reach out via [Twitter](https://twitter.com/sandeepmopidev1) or through my [portfolio website](https://sandeepmopidevi.me).
+<p align="center">
+  Thanks for visiting my profile! Let’s connect and build something awesome.
+</p>
