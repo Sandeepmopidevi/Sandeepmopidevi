@@ -43,7 +43,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge)
-![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-0078D7?style=for-the-badge)
 
 #### **Soft Skills**
@@ -53,29 +52,20 @@
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-F05032?style=for-the-badge)
 ![Versatility](https://img.shields.io/badge/Versatility-FF6F00?style=for-the-badge)
 
-#### **Other Skills**
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-0078D7?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-6DB33F?style=for-the-badge)
-
 ---
 
-### 📜 Certifications
+### 📜 Main Certifications
 
-- 🏆 **CCNA**: Networking, Security, and Automation (Cisco)
-- 🏆 **Oracle Cloud Infrastructure Architect Associate** (Oracle)
-- 🏆 **AWS Academy Cloud Foundations & Architecting** (AWS)
-- 🏆 **Cybersecurity Fundamentals** (IBM & Google)
-- 🏆 **PCAP**: Programming Essentials in Python (Python Institute)
-- 🏆 **MongoDB Node.js Developer** (MongoDB University)
-
----
-
-### 🏆 Achievements & Recognitions
-
-- 🎖️ **Web Development Lead**, Google Developer Student Clubs (Jul 2023 – May 2024)
-- 🎖️ **President**, Coding Club, Gudlavalleru Engineering College (Feb 2023 – Present)
-- 🥇 **Secured 1st Place** in Ideathon on Behalf of Engineers Day
-- 🥈 **Secured 2nd Place** in Smart India Internal Hackathon
+| Certification | Issuer | Issued Date | Credential ID |
+|---------------|--------|-------------|---------------|
+| **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** | Oracle | July 2024 | FB5C3AA707F12EC9F3E0BADAC5A20456DA4FA957BA6E56D0ADA0E37D0973F3E0 |
+| **CCNA: Enterprise Networking, Security, and Automation** | Cisco | May 2024 | e8bd56b5-e057-4d76-a7d2-1d9be9d2f9b2 |
+| **MongoDB Node.js Developer** | MongoDB | July 2024 | MDBp57ehjdhfs |
+| **AWS Academy Graduate - AWS Academy Cloud Foundations** | AWS | May 2023 | - |
+| **Cybersecurity Fundamentals** | IBM | March 2023 | CREDLY-b8810a57-2c5a-4bbc-81f1-9bfc649ad13d |
+| **PCAP: Programming Essentials in Python** | Python Institute | June 2022 | - |
+| **Introduction to Generative AI** | Google | September 2023 | 5257784 |
+| **Data Science and Machine Learning Capstone Project** | edX | April 2024 | 150e6dc1e41345018c47f775d7ced285 |
 
 ---
 
